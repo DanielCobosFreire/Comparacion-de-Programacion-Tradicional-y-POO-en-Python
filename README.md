@@ -2,12 +2,12 @@
 Objetivo: Desarrollar habilidades prácticas en la Programación Tradicional y la Programación Orientada a Objetos (POO) mediante la implementación de un programa en Python para determinar el promedio semanal del clima.
 # Comparación entre Programación Tradicional y Programación Orientada a Objetos en Python
 
-## 🎯 Objetivo
+##  Objetivo
 Desarrollar un programa en Python que calcule el **promedio semanal del clima**, aplicando dos enfoques diferentes: **Programación Tradicional** y **Programación Orientada a Objetos (POO)**.
 
 ---
 
-## 🧮 Programación Tradicional
+##  Programación Tradicional
 
 Este enfoque utiliza funciones independientes para realizar tareas específicas:
 
@@ -25,7 +25,7 @@ Este enfoque utiliza funciones independientes para realizar tareas específicas:
 
 ---
 
-## 🧱 Programación Orientada a Objetos (POO)
+##  Programación Orientada a Objetos (POO)
 
 Este enfoque modela la información mediante clases y objetos:
 
@@ -46,7 +46,7 @@ Este enfoque modela la información mediante clases y objetos:
 
 ---
 
-## 📊 Comparación General
+##  Comparación General
 
 | Aspecto                          | Tradicional                             | POO                                      |
 |----------------------------------|------------------------------------------|------------------------------------------|
@@ -58,7 +58,7 @@ Este enfoque modela la información mediante clases y objetos:
 
 ---
 
-## 📁 Archivos incluidos
+##  Archivos incluidos
 
 - `clima_tradicional.py`: Código con funciones.
 - `clima_poo.py`: Código con clases.
@@ -66,7 +66,7 @@ Este enfoque modela la información mediante clases y objetos:
 
 ---
 
-## 🚀 Cómo ejecutar
+##  Cómo ejecutar
 
 ```bash
 python clima_tradicional.py
